@@ -43,7 +43,7 @@ x-acquired-year: '2000'
 x-api-surface: none
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-18'
+modified: '2026-09-15'
 tags:
 - Company
 - Networking
@@ -53,6 +53,7 @@ tags:
 - Acquired
 - Cisco
 - Historical
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
